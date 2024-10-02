@@ -5,8 +5,6 @@ using the [tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth) package.
 
 Laravel JWT docs: https://jwt.io/introduction
 
-![Project Image](public/assets/images/24012358-b802da74-2719-4e76-ab61-bf565cb38b99.webp
-
 ## Features
 - JWT authentication (login, register, password reset, email verification)
 - Profile updating
