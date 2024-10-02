@@ -1,4 +1,4 @@
-# Laravel API Security with JSON Web Token for authentication (Login, Check Profile, and Logout)
+# Laravel API Security with JSON Web Token for user authentication 
 
 This repository contains a Laravel 10 with JWT authentication boilerplate
 using the [tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth) package.
